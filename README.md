@@ -31,3 +31,4 @@ The project is being done as a part of Udacity Data Science Nanodegree. The obje
 3. Python Program - Imdb project for DA
 4. Blog post - https://mg89manishgupta.medium.com/what-to-watch-this-weekend-problem-of-many-d17bf7fa5982
 5. Requirements.txt uplaoded on Git 
+6. Git Repo - https://github.com/mg89manishgupta/dsnanodegree
