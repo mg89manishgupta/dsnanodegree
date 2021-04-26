@@ -19,6 +19,8 @@ I am a learning data scientist and was tempted to work on a real data science pr
 
 ## Description of various steps undertaken to complete the project
 
+Project follows the CRISP-DM process/approach to problem solving.
+
 1. Data Scouting - searching for the data available and building information about it
 2. Data Gathering - making notes and collecting data available on internet
 3. Data Ingestion - insourcing the datasets on your developement environment for data analysis
